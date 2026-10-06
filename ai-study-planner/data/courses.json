@@ -1,0 +1,70 @@
+{
+  "saved_on": "2026-10-06T02:37:09",
+  "student": {
+    "name": "Sara",
+    "hours_per_day": 3.0,
+    "study_days": 6
+  },
+  "courses": [
+    {
+      "name": "Artificial Intelligence",
+      "difficulty": "High",
+      "exam_date": "2026-10-09",
+      "study_hours": 8.0
+    },
+    {
+      "name": "Java",
+      "difficulty": "Medium",
+      "exam_date": "2026-10-14",
+      "study_hours": 6.0
+    },
+    {
+      "name": "SQL",
+      "difficulty": "Low",
+      "exam_date": "2026-10-11",
+      "study_hours": 4.0
+    }
+  ],
+  "plan": [
+    {
+      "date": "2026-10-06",
+      "sessions": {
+        "Artificial Intelligence": 3.0
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "sessions": {
+        "Artificial Intelligence": 3.0
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "sessions": {
+        "Artificial Intelligence": 2.0,
+        "Java": 1.0
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "sessions": {
+        "SQL": 2.0,
+        "Java": 1.0
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "sessions": {
+        "SQL": 2.0,
+        "Java": 1.0
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "sessions": {
+        "Java": 3.0
+      }
+    }
+  ],
+  "warnings": []
+}
